@@ -1,0 +1,9 @@
+{
+    "summarizing_your_article": "Summarizing your article...",
+    "error_url": "Sorry, the link you sent is Invalid, Please make sure the link is valid and resend it.\n If the issue continues please submit a bug using *feedback* command.",
+    "error_openai": "Sorry, the article you sent is too long for us to summarize.\n This is a beta feature, so we are still working on making it better.\n Please try using a shorter article.Thank you!",
+    "error": "I could not understand that or something is wrong..\n If the issue continues please submit a bug using *feedback* command.",
+    "success": "Here is a summary for this article",
+    "suffix": "This summary is brought to you by fredo.ai, your WhatsApp assistant bot",
+    "welcome": "📰📰📰\n\nGot a link to an article but can't find time to read it?\n Send it to Fredo to get a text and audio summary.\n 💡 _Tip: start with the word tldr and specify after that a link to the article page._\n*Examples:*\n_tldr  https://www.nytimes.com/business/economy/us-trade-deficit_\nSend *HELP* to return to main menu"
+}
