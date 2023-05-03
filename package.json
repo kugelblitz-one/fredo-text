@@ -1,0 +1,11 @@
+{
+  "name": "fredo-text",
+  "version": "1.0.0",
+  "description": "an external text package for Fredo,  - cleaner code base all the long text messages are in one place  - allow product managers to edit and tweak text messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
