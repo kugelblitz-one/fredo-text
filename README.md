@@ -2,7 +2,7 @@
 an external text package for Fredo,
  - cleaner code base all the long text messages are in one place
  - allow product managers to edit and tweak text messages
- - allow future translation and language support efforts 
+ - allow future translation and language support efforts to require minimal changes to the project code base
 
 ### guidelines
 please use simple Json files with simple strings
