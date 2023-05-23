@@ -6,14 +6,15 @@ an external text package for Fredo,
 
 ### guidelines
 please use simple Json files with simple strings
-if you really need a tempalte use this simple pattern from this lib
+if you really need a tempalte use this simple pattern from this lib 
 ([string-template](https://www.npmjs.com/package/string-template))
 
+this string goes in the json
 ```
 "Hello {name}, you have {count} unread messages"
 ```
 
-in the code we can insert things like so
+and in the main code base we can insert things like so
 ```
 var compile = require("string-template/compile")
  
