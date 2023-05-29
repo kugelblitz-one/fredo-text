@@ -6,5 +6,5 @@ module.exports = {
   helper: require('./helper.js'),
   contact: require('./contact.text.json'),
   image: require('./image.text.js'),
-  imageToText: require('./imageToText.text.json'),
+  imageToText: require('./imageToText.text.js'),
 }
