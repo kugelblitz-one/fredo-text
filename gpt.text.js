@@ -19,4 +19,8 @@ module.exports = {
     'HELP'
   )} to return to main menu._`,
   reset: `Your'e GPT session has been initialized.  You can start a new conversation.`,
+  failedResponseByOpenAi:
+    'Seems like GPT service is not responding to us.\nPlease try again in few minutes.',
+  failedResponseByOther:
+    'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can try tapping *_gpt-reset_* to start new conversation.',
 }
