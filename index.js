@@ -7,4 +7,5 @@ module.exports = {
   contact: require('./contact.text.json'),
   image: require('./image.text.js'),
   imageToText: require('./imageToText.text.js'),
+  reminder: require('./reminder.text.js'),
 }

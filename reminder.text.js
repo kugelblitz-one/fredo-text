@@ -1,6 +1,6 @@
-import { newLine, bold } from './helper'
+const { newLine, bold } = require('./helper.js')
 
-export default {
+module.exports = {
   welcome: `⏰⏰⏰${newLine()}Need a reminder? Tell Fredo ${bold('when')} and ${bold(
     'what'
   )} and when the time comes, Fredo will send you a message.${newLine(
