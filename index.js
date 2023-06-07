@@ -12,4 +12,5 @@ module.exports = {
   templates: {
     verifyCode: require('./templates/verifyCode.tamplate')
   }
+  errors: require('./errors.text.js'),
 }
