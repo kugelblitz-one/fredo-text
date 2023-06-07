@@ -9,4 +9,5 @@ module.exports = {
   imageToText: require('./imageToText.text.js'),
   reminder: require('./reminder.text.js'),
   note: require('./note.text.js'),
+  errors: require('./errors.text.js'),
 }
