@@ -8,4 +8,7 @@ module.exports = {
   image: require('./image.text.js'),
   imageToText: require('./imageToText.text.js'),
   privacyPolicy: require('./privacyPolicy.text.json'),
+  reminder: require('./reminder.text.js'),
+  note: require('./note.text.js'),
+  errors: require('./errors.text.js'),
 }
