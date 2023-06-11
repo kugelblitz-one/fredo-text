@@ -25,7 +25,10 @@ module.exports = {
   remindInA: (number, type, text) => `I will remind you in ${number} ${type}: ${newLine()}${text}`,
   remindOnDateTime: (date, time, text) =>
     `I will remind you on ${date} at ${time}:${newLine()}${text}`,
-  invalidMessage: `You used an invalid reminder template`,
+  invalidMessage: `You used an invalid reminder template or we could not understand the reminder date and time.\n\n
+  *Examples:*\n
+  remind me to pick up Jerry today @4pm
+  reminder 07-Sep-2023 08:00 breakfast at Tiffany`,
   customSnoozePrompt: `When do you want to get this reminder again?${newLine(2)}💡${bold(
     'Tip'
   )}: send the time you wish to get snoozed (e.g 3 hours, 30 minutes, tomorrow, 01-Feb-2023 at 8 AM)`,
