@@ -15,6 +15,7 @@ module.exports = {
     `2️⃣  Trello${newLine()}` +
     `3️⃣  Monday${newLine()}` +
     '4️⃣  Workflowy',
+  unrecognized_answer: 'I can\'t recognize this option 🧐',
   trello_welcome_message: "To start I'll need your Trello's email-to-board link.",
   trello_how_setup_trello_board:
     `How to setup and connect a Trello board with Fredo? ${newLine(2)}` +
