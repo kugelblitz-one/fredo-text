@@ -1,6 +1,7 @@
 {
     "summarizing_your_article": "Summarizing your article...",
     "error_url": "Sorry, the link you sent is Invalid, Please make sure the link is valid and resend it.\n If the issue continues please submit a bug using *feedback* command.",
+    "error_extraction": "Sorry, we had trouble extracting the article content for the TL;DR feature.\n\nThis is a beta feature and we are still working out the kinks.\nPlease try again later or use a different article link.",
     "error_openai": "Sorry, the article you sent is too long for us to summarize.\n This is a beta feature, so we are still working on making it better.\n Please try using a shorter article.Thank you!",
     "error_audio": "We couldn't create an audio narration of the article.",
     "error": "I could not understand that or something is wrong..\n If the issue continues please submit a bug using *feedback* command.",
