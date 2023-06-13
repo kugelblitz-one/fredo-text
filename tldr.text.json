@@ -6,6 +6,5 @@
     "error": "I could not understand that or something is wrong..\n If the issue continues please submit a bug using *feedback* command.",
     "success": "Here is a summary for this article",
     "suffix": "This summary is brought to you by fredo.ai, your WhatsApp assistant bot",
-    "too_long_will_try": "the text is too long, but will try to summarize it",
     "welcome": "📰📰📰\n\nGot a link to an article but can't find time to read it?\nSend it to Fredo to get a text and audio summary.\n\n💡 _Tip: start with the word tldr and specify after that a link to the article page._\n\n*Examples:*\ntldr\nhttps://www.nytimes.com/business/economy/us-trade-deficit\n\n_Send *HELP* to return to main menu_"
 }
