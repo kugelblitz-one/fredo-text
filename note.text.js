@@ -40,7 +40,7 @@ module.exports = {
     `Please make sure you follow the steps as mentioned in the previous message and try again.${newLine(2)}` +
     `In case you still need help with this setup please contact us at connect@fredo.ai.`,
   please_send_your_email:
-    "Please send your email address. ${newLine()}(I'll email you a verification code to make sure it works)",
+    `Please send your email address. ${newLine()}(I'll email you a verification code to make sure it works)`,
   code_sent(email) {
     return `Cool, I sent you a verification code to ${email}, (if you can't see it please look in your spam folder).${newLine(2)}Please type the 4 digits verification code.`
   },
