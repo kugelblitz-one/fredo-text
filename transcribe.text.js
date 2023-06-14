@@ -8,10 +8,7 @@ module.exports = {
     "I can't transcribe this.\n" +
     "It might be the audio quality, it's longer than 2 min or maybe I'm just tired.\n" +
     'I will send it as an item to {{platform}}',
-  error:
-    "I can't transcribe this.\n" +
-    "It might be the audio quality, it's longer than 1 min or maybe I'm just tired.\n",
-  send_platform: `I will send it as an item to `,
+  error: "I can't transcribe this, It might be the audio quality or the format. \nSeems like there is nothing I can do about it.",
   please_wait: 'Transcribing...',
   transcription_result: 'Please see below the transcription result',
   openai_error: 'We use Whisper for transcribing messages.\n seems like their service is currently not working as expected.\nPlease try again in 30 minutes.',
