@@ -11,4 +11,5 @@ module.exports = {
   reminder: require('./reminder.text.js'),
   note: require('./note.text.js'),
   errors: require('./errors.text.js'),
+  transcribe: require('./transcribe.text') 
 }
