@@ -1,5 +1,6 @@
 {
-    "please_accept": "We are extremely happy and thrilled you are using Fredo.\nTo continue using it please accept our privacy policy.\nhttps://fredo.ai/privacy-policy/",
+    "please_accept": "Thanks for using Fredo!\nWe value your privacy.\nPlease review and accept our privacy policy. \nhttps://fredo.ai/privacy-policy/",
     "thanks": "Thanks, we will proceed with your original message now.",
-    "must": "Unfortunately, to use Fredo, we must get your consent on our privacy policy."
+    "must": "Unfortunately, to use Fredo, we must get your consent on our privacy policy.",
+    "please_accept_2": "We are extremely happy and thrilled you are using Fredo.\nTo continue using it please accept our privacy policy.\nhttps://fredo.ai/privacy-policy/"
 }
