@@ -12,5 +12,6 @@ module.exports = {
   note: require('./note.text.js'),
   errors: require('./errors.text.js'),
   transcribe: require('./transcribe.text'),
-  help: require('./help.text.json')
+  help: require('./help.text.json'),
+  feedback: require('./feedback.text.json')
 }
