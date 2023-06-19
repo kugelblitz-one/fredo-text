@@ -1,4 +1,5 @@
 {
     "commands": "Help commands:\n1. 🪲 *feedback* - Allows you to submit a bug report\n2. 🔌 *logout* - Erase all your login details.\n3. 📗 *learn* - Visit our knowledge base",
-    "skills": "Fredo Skills:\n4. 🎙 *transcribe* - Voice messages to text\n5. ⏰ *reminder* - Set reminders\n6. 💬 *gpt* - Talk to OpenAI GPT-3.5\n7. ☎️ *contact* - Turn phone numbers into WhatsApp chat links\n8. 🏞️ *image* - Create an original image given a text prompt\n9. 📰 *tldr* - Summarize articles (by URL)\n10. 🗑️ *notes* - Forward WhatsApp to email or productivity app"
+    "skills": "Fredo Skills:\n4. 🎙 *transcribe* - Voice messages to text\n5. ⏰ *reminder* - Set reminders\n6. 💬 *gpt* - Talk to OpenAI GPT-3.5\n7. ☎️ *contact* - Turn phone numbers into WhatsApp chat links\n8. 🏞️ *image* - Create an original image given a text prompt\n9. 📰 *tldr* - Summarize articles (by URL)\n10. 🗑️ *notes* - Forward WhatsApp to email or productivity app",
+    "dont_understand": "Not sure I follow.\nPlease check the list of commands I sent earlier, or click help."
 }
