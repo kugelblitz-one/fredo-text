@@ -1,4 +1,0 @@
-module.exports = {
-  describe: `What's on your mind? Tell us anything..\nFeedback, bug or review, you name it, we are here to respond.`,
-  thankYou: `Thank you! \nWe have received your request and will get right to it. \n\nOur team will review it and contact you within 48 hours.`,
-}
