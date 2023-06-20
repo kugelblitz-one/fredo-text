@@ -56,10 +56,14 @@ module.exports = {
     `Amazing! ${newLine(2)}Anything you send to Fredo, will be sent as an Email.` +
     `${newLine(2)}You can keep your inbox sensible by starting with a few words of context which will be used for the email's subject line.`,
   trello_code_success:
-    `Sweet! 🍭 <br/><br/> Anything you send me here, I will forward to your Trello board as a new card. <br/><br/>Feel free to send anything now.`,
+    `Sweet! 🍭${newLine(2)}Anything you send me here, I will forward to your Trello board as a new card.${newLine(2)}`+
+    `Feel free to send anything now.`,
   monday_code_success:
-    `Sweet! 🍭 <br/>Your *Monday board* is now connected to Fredo as your Default board. <br/><br/>You can now add new items to this board by simply sending any text message to Fredo. <br/>Any message sent will be added as a new card to this board. <br/><br/>Try sending "*Test*" in the chat and look for it in your Monday board.`,
-
+    `Sweet! 🍭${newLine()}` +
+`your *Monday board* is now connected to Fredo as your Default board.${newLine(2)}` +
+`You can now add new items to this board by simply sending any text message to Fredo.${newLine()}`+
+`Any message sent will be added as a new card to this board.${newLine(2)}`+
+`Try sending "Test" in the chat and look for it in your Trello board .`,
   icon_email_sent_to_note: '👍',
   first_message: 'This message is now in your inbox.',
   first_message_help: `Now that Fredo is ready for brain dump, let's check out these other skills.${newLine(2)}💡 Just tap *Help* to view all skills and commands${newLine(2)}If you are all set, feel free to send anything now.`,
