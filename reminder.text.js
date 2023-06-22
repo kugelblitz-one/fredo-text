@@ -16,11 +16,9 @@ module.exports = {
     'Howto'
   )} to explore more skills ${newLine()}💡 Need help? Just send ${bold('Help')}`,
   /**
-   *
    * @param {number} number
    * @param {'minutes' | 'hours' | 'days'} type
    * @param {string} text
-   * @returns
    */
   remindInA: (number, type, text) => `I will remind you in ${number} ${type}: ${newLine()}${text}`,
   remindOnDateTime: (date, time, text) =>
@@ -40,6 +38,13 @@ module.exports = {
     )}You can snooze it with the options below.`,
   remindInOneHour: text => `I will remind you in 1 hour:${newLine()}${bold(text)}`,
   remindTomorrow8am: text => `I will remind you tomorrow @8AM:${newLine()}${bold(text)}`,
+  /**
+   * @param {'tomorrow' | 'today'} type
+   * @param {string} time
+   * @param {string} text
+   */
+  remindTodayOrTomorrowAt: (type, time, text) =>
+    `I will remind you ${type} at ${time}:${newLine()}${bold(text)}`,
   currentTimezone: timezone => `Your reminders are based on your local timezone: ${bold(timezone)}`,
   whatYourLocation: `Please tell us what is your location?`,
 }
