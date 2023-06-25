@@ -12,7 +12,8 @@ module.exports = {
   please_wait: 'Transcribing...',
   transcription_result: 'Please see below the transcription result',
   openai_error: 'We use Whisper for transcribing messages.\n seems like their service is currently not working as expected.\nPlease try again in 30 minutes.',
-  too_long: `Sorry! Your audio is too long for our system to transcribe.\nMaybe try cutting it down to 25MB or less - that's the longest audio our system can handle!`,
+  too_big: `Sorry! Your audio file is too big for our system to transcribe.\nMaybe try cutting it down to 25MB or less - that's the largest audio file our system can handle!`,
+  too_long: `Sorry! Your audio is too long for our system to transcribe.\nMaybe try cutting it down to 10 minutes or less - that's the longest audio our system can handle!`,
   send_to_note: 'I will send this to your default notes address.'
 
 }
