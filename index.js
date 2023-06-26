@@ -5,7 +5,7 @@ module.exports = {
   gpt: require('./gpt.text.js'),
   helper: require('./helper.js'),
   contact: require('./contact.text.json'),
-  image: require('./image.text.js'),
+  image: require('./image.text.json'),
   imageToText: require('./imageToText.text.js'),
   privacyPolicy: require('./privacyPolicy.text.json'),
   reminder: require('./reminder.text.js'),
