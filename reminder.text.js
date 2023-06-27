@@ -45,6 +45,4 @@ module.exports = {
    */
   remindTodayOrTomorrowAt: (type, time, text) =>
     `I will remind you ${type} at ${time}:${newLine()}${bold(text)}`,
-  currentTimezone: timezone => `Your reminders are based on your local timezone: ${bold(timezone)}`,
-  whatYourLocation: `Please tell us what is your location?`,
 }
