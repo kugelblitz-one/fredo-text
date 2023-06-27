@@ -13,5 +13,6 @@ module.exports = {
   errors: require('./errors.text.js'),
   transcribe: require('./transcribe.text'),
   help: require('./help.text.json'),
-  feedback: require('./feedback.text.json')
+  feedback: require('./feedback.text.json'),
+  timezone: require('./timezone.text.js'),
 }
