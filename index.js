@@ -15,4 +15,5 @@ module.exports = {
   help: require('./help.text.json'),
   feedback: require('./feedback.text.json'),
   timezone: require('./timezone.text.json'),
+  ignore: require('./ignore.text.js')
 }
