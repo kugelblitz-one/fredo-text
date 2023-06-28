@@ -1,6 +1,6 @@
 {
     "display_time_template": "Your current timezone is: {timezone}. \nLocal time: {localTime}",
-    "whats_the_time": "What's the time now? \n(E.g. 16:35, 4:35pm)",
+    "click_the_link": "Click the link below and Fredo will extract your timezone.ֿ\n{link}",
     "cancel_display_time_template": "Your current timezone is: {timezone}. \nLocal time: {localTime}\n\n Send *tz* anytime you want to edit this.",
     "timezone_change_success_template": "Great, we have set your new timezone. \n\nYour current timezone is: {timezone}. \nLocal time: {localTime}\n\n Send *tz* anytime you want to edit this.",
     "timezone_change_failed": "I could not parse your local time. \nPlease try again to send me your current local time. \n \nUse these format HH:MM. \n(E.g. 16:35, 04:35pm)"
