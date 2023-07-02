@@ -10,8 +10,8 @@ module.exports = {
     "You should setup notes first and then control the forwarding settings.\n\n" +
     "👉 Send  *NOTES*  if you want to start using notes forwarding.",
   change_ignore_to_default_behavior: (platform_name) => {
-    return `Currently, all your messages are forwarded by default to ${platform_name}.` +
-      "You can change this default behavior so only messages with ! are forwarded." +
+    return `Currently, all your messages are forwarded by default to ${platform_name}.\n` +
+      "You can change this default behavior so only messages with ! are forwarded.\n" +
       "Would you like to keep this default, or change it?"
   },
   keep_note_as_default: (platform_name) => {
