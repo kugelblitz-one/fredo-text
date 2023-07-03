@@ -16,12 +16,12 @@ module.exports = {
   },
   keep_note_as_default: (platform_name) => {
     return "No problem.\n" +
-      `All your notes will be sent to ${platform_name} as before.` +
-      "You can always add ! at the start note, to exclude it from notes"
+      `All your notes will be sent to ${platform_name} as before.\n` +
+      "You can always add ! at the start note, to exclude it from notes."
   },
   change_to_ignore_mode: (platform_name) => {
     return "Done.\n" +
       "Fredo will no longer forward your notes by default.\n" +
-      `Add ! before a note to forward it just this time to ${platform_name} .`
+      `Add ! before a note to forward it just this time to ${platform_name}.`
   }
 }
