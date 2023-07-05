@@ -3,5 +3,6 @@
     "click_the_link": "Click the link below and Fredo will extract your timezone. \n{link}",
     "cancel_display_time_template": "Your current timezone is: {timezone}. \nLocal time: {localTime}\n\n Send *tz* anytime you want to edit this.",
     "timezone_change_success_template": "Great, we have set your new timezone. \n\nYour current timezone is: {timezone}. \nLocal time: {localTime}\n\n Send *tz* anytime you want to edit this.",
-    "timezone_change_failed_template": "Something went wrong and Fredo couldn't extract your timezone from the browser. \n\nPlease try again by opening this link from a different browser \n {link}"
+    "timezone_change_failed_template": "Something went wrong and Fredo couldn't extract your timezone from the browser. \n\nPlease try again by opening this link from a different browser \n {link}",
+    "reminder_tz_template": "Your reminders are based on your local time: {localTime}"
 }
