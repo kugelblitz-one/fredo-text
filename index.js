@@ -16,5 +16,5 @@ module.exports = {
   feedback: require('./feedback.text.json'),
   timezone: require('./timezone.text.json'),
   ignore: require('./ignore.text.js'),
-  timezone: require('./calendar.text.js'),
+  calendar: require('./calendar.text.js'),
 }
