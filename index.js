@@ -17,4 +17,5 @@ module.exports = {
   timezone: require('./timezone.text.json'),
   ignore: require('./ignore.text.js'),
   calendar: require('./calendar.text.js'),
+  mute: require('./mute.text.json'),
 }
