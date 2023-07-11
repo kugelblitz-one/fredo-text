@@ -1,5 +1,5 @@
 {
-    "commands": "Help commands:\n1. 🪲 *feedback* - Allows you to send feedback or report a bug\n2. 🔌 *logout* - Erase all your login details.\n3. 📗 *learn* - Visit our knowledge base",
+    "commands": "Help commands:\n1. 🪲 *feedback* - Allows you to send feedback or report a bug\n2. 🔌 *logout* - Erase all your login details.\n3. 📗 *learn* - Visit our knowledge base\n9. 💤 MUTE - Turn on/off notification from Fredo",
     "skills": "Fredo Skills:\n4. 🎙 *transcribe* - Voice messages to text\n5. ⏰ *reminder* - Set reminders\n6. 🕐 *TIMEZONE* - Edit your timezone for reminders\n7. 💬 *gpt* - Talk to OpenAI GPT-3.5\n8. ☎️ *contact* - Turn phone numbers into WhatsApp chat links\n9. 🏞️ *image* - Create an original image given a text prompt\n10. 📰 *tldr* - Summarize articles (by URL)\n11. 🗑️ *notes* - Forward WhatsApp to email or productivity app",
     "dont_understand": "Not sure I follow.\nPlease check the list of commands I sent earlier, or click help.",
     "fredo_knowledge": "Check out our knowledge base on all things Fredo.\n Go to https://help.fredo.ai",
