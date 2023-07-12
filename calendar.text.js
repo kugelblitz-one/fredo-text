@@ -4,5 +4,5 @@ module.exports = {
   whatCalendarUse: 'What calendar do you use?',
   includeNextTime: 'Would you like me to include such links next time you set a reminder?',
   WillDo: 'Will do.',
-  reminderRequestOption: `No problem. If you ever change your mind, just send "reminder" and follow the instructions.`,
+  reminderRequestOption: `No problem. If you ever change your mind, just send "calendar" and follow the instructions.`,
 }
