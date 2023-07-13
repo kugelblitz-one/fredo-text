@@ -1,0 +1,15 @@
+{
+    "welcome": "*Welcome. I'm Fredo. Your gateway to productivity.*\nI'll help you stay organized by capturing all your thoughts, ideas, and tasks.\nThere's a lot more I can do to help you get things done, but a great starting point is the *Notes* feature. Let's roll!",
+    "notes": "With *Notes*,  I can forward your texts (or voice) messages to your inbox (email) or favourite productivity app.\nOr, I can keep your notes here. Just like texting yourself (but with benefits).\n\nTo connect your inbox or app,\ntap *Connect inbox/app*.\n\nTo keep notes here,\ntap *Keep here*\n\nYou can switch later and at any time",
+    "keep_here": "OK! For now, all your notes will be stored right here. When you decide to link your inbox or a productivity app, just send *Notes*.",
+    "main_skills" : [
+        "Here are the main skills to help you stay productive:",
+        "📝 *Notes*\nLink Fredo to your inbox and go-to productivity apps to capture tasks, ideas, and more straight from WhatsApp.\n\n👉 Click *Notes* to learn more.",
+        "⏰ *REMINDER*\nNeed a reminder? Tell Fredo what and when, and Fredo will text you when the time comes.\n\n👉 Click *Reminder* to learn more.",
+        "🎙 *TRANSCRIBE*\nTurn lengthy voice messages into text. Just send them here.\n\n👉 Click *Transcribe* to learn more.",
+        "🤖 *Chat with GPT*\nWant to chat with ChatGPT? Just add \"gpt\" at the start of your query. Like this: \"gpt, what is ChatGPT?\"\n\n👉 Click *GPT* to learn more.",
+        "🏞️ *IMAGE*\nGenerate amazing images from text by typing *img* or *image* followed by a detailed description of what you'd like to see.\n\n👉 Click *Image* to learn more.",
+        "📰 *TLDR*\nShrink down online articles into bite-sized summaries. Just send *tldr* followed by the article link.\n\n👉 Click *TL;DR* to learn more.",
+        "🤩 Which one of these will you try first?\n(we recommend you *star these messages* for later reference).\n\nSend *Help* at any time for more info,\nor visit our knowledge base at help.fredo.ai"
+    ]
+}
