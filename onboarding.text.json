@@ -18,7 +18,7 @@
     ],
     "restart": "Please choose one of the options or click 'restart' to start again",
     "inbox": "Awesome. Fredo will forward your notes from connect@fredo.ai.\nAdd that to your contacts so i won't end up in your spam or promotions folders.\n\n*What's your email address (where notes will land)?*",
-    "verify_template": "We've just sent a verification code to {email_address}. Send me that code here, or simply click the link in the email.\n\n Just a heads up, by sending the code you're giving Fredo permission to mail your notes to {email_address}.",
+    "verify_template": "We've just sent a verification code to {email_address}. Send me that code here, or simply click the link in the email.\n\n👉  Just a heads up, by sending the code you're giving Fredo permission to mail your notes to {email_address}.",
     "verify_app_template": "We've just sent a verification code to {email_address}. please go to the app, and send me that code here\n\n Just a heads up, by sending the code you're giving Fredo permission to mail your notes to {email_address}.",
     "minute_passed": "*Can't find the code?*\n1. Double-check that your address is {email_address}.\n2. Check your spam folder for emails from connect@fredo.ai.\n3. If everything's in order but you still haven't received the code, click *Resend Code*  to give it another go.",
     "minute_passed_app": "*Can't find the code?*\n1. Double-check that your mail to board address is {email_address}.\n2. Check your productivity app again\n3. If everything's in order but you still haven't received the code, click *Resend Code*  to give it another go.",
