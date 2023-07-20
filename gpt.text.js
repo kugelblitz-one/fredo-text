@@ -24,7 +24,7 @@ module.exports = {
     'Seems like GPT service is not responding to us.\nPlease try again in few minutes.',
   failedResponseByOther:
     'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can try tapping *_gpt-reset_* to start new conversation.',
-  startSession: 'Opening a thread with ChatGPT. When done, send Close to close it.',
+  startSession: 'Starting ChatGPT session…',
   closeSession:
     "I closed this GPT thread. To open a new thread send 'GPT' followed by your request.",
   youCanSendCancel:
