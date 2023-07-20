@@ -27,4 +27,6 @@ module.exports = {
   startSession: 'Opening a thread with ChatGPT. When done, send Close to close it.',
   closeSession:
     "I closed this GPT thread. To open a new thread send 'GPT' followed by your request.",
+  youCanSendCancel:
+    'Note: to finish ChatGPT session tap *End chat*.\nOtherwise you can continue the conversation as usual.',
 }
