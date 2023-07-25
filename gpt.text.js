@@ -23,7 +23,7 @@ module.exports = {
   failedResponseByOpenAi:
     'Seems like GPT service is not responding to us.\nPlease try again in few minutes.',
   failedResponseByOther:
-    'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can try tapping *_gpt-reset_* to start new conversation.',
+    'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can try tapping *End chat* to start new conversation.',
   startSession: 'Starting ChatGPT session... to close it send *End chat* at any point',
   closeSession:
     'Chat is closed. if you want to start new session just send *gpt* followed by your prompt.',
