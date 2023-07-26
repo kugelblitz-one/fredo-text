@@ -45,4 +45,6 @@ module.exports = {
    */
   remindTodayOrTomorrowAt: (type, time, text) =>
     `I will remind you ${type} at ${time}:${newLine()}${bold(text)}`,
+  cancelCustom:
+    "No problem.\nIf you need, you can always send 'reminder' to view all your existing reminders.",
 }
