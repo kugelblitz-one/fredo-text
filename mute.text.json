@@ -1,4 +1,4 @@
 {
-    "on": "Got it.\nYou will no longer receive release notes, tips and any other messages from Fredo you did not ask for.\n\nYou can always change it by sending 'Mute'.",
-    "off": "Got it.\nYou will recieve important notice from Fredo about new features, tips  etc. to help you get the most out of Fredo.\n\nYou can always change it by sending 'Mute'."
+    "on": "🛑 You will no longer receive release notes, tips and any other messages from Fredo you did not ask for.\n\nYou can always change it by sending 'Mute'.",
+    "off": "🟢 You will recieve important notice from Fredo about new features, tips  etc. to help you get the most out of Fredo.\n\nYou can always change it by sending 'Mute'."
 }
