@@ -47,4 +47,6 @@ module.exports = {
     `I will remind you ${type} at ${time}:${newLine()}${bold(text)}`,
   cancelCustom:
     "No problem.\nIf you need, you can always send 'reminder' to view all your existing reminders.",
+  cancelLastReminder: (dateTime, content) =>
+    `Cancelled the Reminder for:\n${dateTime} - ${content}`,
 }
