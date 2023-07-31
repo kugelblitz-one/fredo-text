@@ -49,4 +49,11 @@ module.exports = {
     "No problem.\nIf you need, you can always send 'reminder' to view all your existing reminders.",
   cancelLastReminder: (dateTime, content) =>
     `Cancelled the Reminder for:\n${dateTime} - ${content}`,
+  reminderListForCancel: `Which reminder to cancel? send the number of the reminder.\n(e.g. sending 1 will delete the first reminder in the list)\n\n`,
+  deletedReminderSuccessfully: (dateTime, content) =>
+    `${content} ${dateTime}\nDeleted reminder successfully!`,
+  selectedInvalidNumberIsNumber:
+    "You selected a reminder that does not exist.\n select a number from the list below or send 'cancel' to go back.",
+  selectedInvalidNumberIsNotNumber:
+    "You need to chose a number to select a reminder to delete.\nYou can send 'cancel' to go back.",
 }
