@@ -56,4 +56,5 @@ module.exports = {
     "You selected a reminder that does not exist.\n select a number from the list below or send 'cancel' to go back.",
   selectedInvalidNumberIsNotNumber:
     "You need to chose a number to select a reminder to delete.\nYou can send 'cancel' to go back.",
+  reminderIsPast: 'Reminder is past due.',
 }
