@@ -57,4 +57,6 @@ module.exports = {
   selectedInvalidNumberIsNotNumber:
     "You need to chose a number to select a reminder to delete.\nYou can send 'cancel' to go back.",
   reminderIsPast: 'Reminder is past due.',
+  messageInFirstReminder:
+    "Congrats on your first reminder 🎉\n\nNow, let's level it up with these features:\n\n1. Click *Edit Timezone* if your reminders have gone loco.\n\n2. Tap *Calendar* to add reminders to your schedule.\n\n3. Hit *Cancel reminders* to remove that last reminder blunder.\n\nFeel free to holler if you need help. Stay sassy, stay organized! 💃",
 }
