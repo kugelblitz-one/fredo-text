@@ -1,6 +1,6 @@
 {
     "welcome": "*Welcome. I'm Fredo. Your gateway to productivity.*\nI'll help you stay organized by capturing all your thoughts, ideas, and tasks.\nThere's a lot more I can do to help you get things done, but a great starting point is the *Notes* feature. Let's roll!",
-    "notes": "With *Notes*,  I can forward your texts (or voice) messages to your inbox (email) or favourite productivity app.\nOr, I can keep your notes here. Just like texting yourself (but with benefits).\n\nTo connect your inbox or app,\ntap *Connect inbox/app*.\n\nTo keep notes here,\ntap *Keep here*\n\nYou can switch later and at any time",
+    "notes": "With *Notes*, I can forward your texts (or voice) messages to your inbox (email) or favorite productivity app.\nOr I can keep your notes here. Just like texting yourself (but with benefits).\n\nTo connect your inbox or app,\ntap *Connect inbox/app*.\n\nTo keep notes here,\ntap *Keep here*\n\nYou can switch later and at any time",
     "main_skills" : [
         "OK! For now, all your notes will be stored right here. When you decide to link your inbox or a productivity app, just send *Notes*.",
         "Here are the main skills to help you stay productive:",
