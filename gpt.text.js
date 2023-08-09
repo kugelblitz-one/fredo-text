@@ -19,17 +19,18 @@ module.exports = {
     )} to reset your gpt history to break context and start fresh.${newLine(2)}_Send ${bold(
       'HELP'
     )} to return to main menu._`,
-  reset: `Your'e GPT session has been initialized.  You can start a new conversation.`,
+
+  reset: `Your'e GPT session has been initialized. You can start a new conversation.`,
   failedResponseByOpenAi:
     'Seems like GPT service is not responding to us.\nPlease try again in few minutes.',
   failedResponseByOther:
-    'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can try tapping *End chat* to start new conversation.',
-  startSession: 'Starting ChatGPT session... to close it send *End chat* at any point',
+    'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can start a new session by sending *gpt* followed by your prompt.',
+  startSession: 'Starting ChatGPT session... \nTo end it send *End chat* at any point.',
   closeSession:
-    'Chat is closed. if you want to start new session just send *gpt* followed by your prompt.',
+    'GPT session has ended. If you want to start a new session just send *gpt* followed by your prompt.',
   youCanSendCancel:
-    'Note: to finish ChatGPT session tap *End chat*.\nOtherwise you can continue the conversation as usual.',
-  TapEndChatToClose: 'Tap *End chat* to close ChatGPT.',
+    'Note: To end ChatGPT session tap *End chat*.\nOtherwise, continue the conversation.',
+  TapEndChatToClose: 'Tap *End chat* to end ChatGPT session.',
   forceClose: 'Closing chatGPT session',
   isItSendTranscribeToGpt: 'Should I send the audio to ChatGPT as part of the conversation?',
   sendTranscribeToGpt: 'Transcribe the message and send it to GPT',
