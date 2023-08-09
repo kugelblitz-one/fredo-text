@@ -1,5 +1,6 @@
 {
   "processor": "Generating your image...",
+  "Upscaling": "Upscaling your image...",
   "error": "We could not generate your image",
   "banned_word_template": "We could not generate your image, because the text contains the banned word \"{bannedWord}\"",
   "long_prompt_template": "We could not generate your image, because the text contains more than {maxWordAmount} words",
