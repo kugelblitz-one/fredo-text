@@ -47,6 +47,7 @@ module.exports = {
     `I will remind you ${type} at ${time}:${newLine()}${bold(text)}`,
   cancelCustom:
     "No problem.\nIf you need, you can always send 'reminder' to view all your existing reminders.",
+  youCanCancelLast: `You can *Cancel last reminder* or click *My reminders* for more options.`,
   cancelLastReminder: (dateTime, content) =>
     `Cancelled the Reminder for:\n${dateTime} - ${content}`,
   reminderListForCancel: `Which reminder to cancel? send the number of the reminder.\n(e.g. sending 1 will delete the first reminder in the list)\n\n`,
