@@ -16,5 +16,6 @@ module.exports = {
   too_long: `Sorry! Your audio is too long for our system to transcribe.\nMaybe try cutting it down to 10 minutes or less - that's the longest audio our system can handle!`,
   send_to_note: 'I will send this to your default notes address.',
   tldr_intro: "*tl;dr:*",
-  full_transcription: "*Full transcription:*"
+  full_transcription: "*Full transcription:*",
+  forward: 'Forward to {command} responder'
 }
