@@ -27,5 +27,6 @@
     "connect_app": "Great.\nWhich app would you like to connect with? (send 1 for Trello, 2 for Monday, etc.)\n1. Trello\n2. Monday\n3. WorkFlowy\n4. Other",
     "other": "To connect with productivity apps, we use a feature called mail-to-board, which is supported by many apps, but not all.",
     "check_your_app": "Check your app for support and find your email-to-board email address, then send it here.",
-    "support": "Our support team can try and help, or you can try something else."
+    "support": "Our support team can try and help, or you can try something else.",
+    "wrong_code": "Oops, seems like you entered the wrong code." 
 }
