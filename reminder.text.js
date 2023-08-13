@@ -50,6 +50,7 @@ module.exports = {
   youCanCancelLast: `You can *Cancel last reminder* or click *My reminders* for more options.`,
   cancelLastReminder: (dateTime, content) =>
     `Cancelled the Reminder for:\n${dateTime} - ${content}`,
+  cancelSession: `Sure, anytime you need just send *reminders* to come back to the reminder options.`,
   reminderListForCancel: `Which reminder to cancel? send the number of the reminder.\n(e.g. sending 1 will delete the first reminder in the list)\n\n`,
   deletedReminderSuccessfully: (dateTime, content) =>
     `${content} ${dateTime}\nDeleted reminder successfully!`,
