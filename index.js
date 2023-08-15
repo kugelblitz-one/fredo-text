@@ -18,5 +18,6 @@ module.exports = {
   ignore: require('./ignore.text.js'),
   calendar: require('./calendar.text.js'),
   mute: require('./mute.text.json'),
-  onboarding: require('./onboarding.text.json')
+  pmf: require('./pmf.text.json'),
+  onboarding: require('./onboarding.text.json'),
 }
