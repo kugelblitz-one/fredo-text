@@ -107,5 +107,7 @@ module.exports = {
       `Any message sent will be sent as a new email to this address.`
   },
   you_are_connect_to_default:
-    `You are connected to your Default address.\nYou can send anything now.`
+    `You are connected to your Default address.\nYou can send anything now.`,
+    send_verification_email_text_button: 
+    `Send this 4 digit code to Fredo:`,
 }
