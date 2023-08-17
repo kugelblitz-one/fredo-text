@@ -4,9 +4,9 @@
   "error": "We could not generate your image",
   "banned_word_template": "We could not generate your image, because the text contains the banned word \"{bannedWord}\"",
   "long_prompt_template": "We could not generate your image, because the text contains more than {maxWordAmount} words",
-  "upscale": "To upscale choose the image you like best:\n1. Upper left \n2. Upper right \n3. Lower left \n4. Lower right",
+  "upscale": "To upscale choose the image you like best:\n1. Upper left \n2. Upper right \n3. Lower left \n4. Lower right\n\n Send *cancel* to terminate this image creation.",
   "upscale_error": "We could not upscale your image",
   "cancel_upscale": "Sure.\nTo create new image send *image* followed by your prompt.",
-  "dont_understand": "Not sure I follow.\nPlease type a number from the list I sent earlier",
+  "dont_understand": "Not sure I follow.\nPlease type a number from the list I sent earlier. \n\n Send *cancel* to terminate this image creation.",
   "help": "🏞️🏞️🏞️\nNeed a quick image reference? Fredo creates images from text captions for a wide range of concepts expressible in natural language.\n\n💡 Tip: start with the word *image* and specify after that description of your desired image \n*Examples* \nimage an illustration of a baby daikon radish in a tutu walking a dog \n\n_Send *HELP*_ to return to main menu"
 }
