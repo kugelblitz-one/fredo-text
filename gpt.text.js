@@ -25,6 +25,7 @@ module.exports = {
   youCanSendCancel:
     'Note: To end ChatGPT session tap *End chat*.\nOtherwise, continue the conversation.',
   TapEndChatToClose: 'Tap *End chat* to end ChatGPT session.',
+  closeSessionOptionInEveryResponse: '*******\nSend *close* to end this session',
   forceClose: 'Closing chatGPT session',
   isItSendTranscribeToGpt: 'Should I send the audio to ChatGPT as part of the conversation?',
   sendTranscribeToGpt: 'Transcribe the message and send it to GPT',
