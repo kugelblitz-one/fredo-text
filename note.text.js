@@ -94,8 +94,8 @@ module.exports = {
       `(e.g. ${hashtag} buy milk)`
   },
   used_hashtag_without_content(hashtag) {
-    return `To send text to your #${hashtag} just send your text following your hashtag like so:\n
-    #${hashtag} take the trash`
+    return `To send text to your ${hashtag} just send your text following your hashtag like so:\n
+    ${hashtag} take the trash`
   },
   you_can_add_hashtag: `You can add new addresses by tapping "*Map New Address*" below. `,
   select_default_address:
