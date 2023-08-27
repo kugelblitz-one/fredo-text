@@ -70,7 +70,8 @@ module.exports = {
   first_message_help: `Now that Fredo is ready for brain dump, let's check out these other skills.${newLine(2)}💡 Just tap *Help* to view all skills and commands${newLine(2)}If you are all set, feel free to send anything now.`,
   invalid_email:
     `Seems like you sent us an invalid email address.\nMake sure you send a valid email address like *xxxx@xxxxx.xxx* and resend it.`,
-  no_listmaps: `No maps exist yet, please enter an email address to configure your default map`,
+    canceled_setup_new_email_flow: 'Ok you can setup your notes anytime by sending *Notes*',
+    no_listmaps: `No maps exist yet, please enter an email address to configure your default map`,
   only_one_list:
     `Seems like you have only 1 connected Email address on Fredo or none at all.${newLine(2)}` +
     'Note: When Default email address is connected, Fredo will add any message you send as a new email to your Default Email address.',
