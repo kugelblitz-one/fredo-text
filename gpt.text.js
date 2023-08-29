@@ -19,7 +19,7 @@ module.exports = {
     'Seems like GPT service is not responding to us.\nPlease try again in few minutes.',
   failedResponseByOther:
     'This is awkward, something went wrong.\nWe are looking into it now.\n\n💡You can start a new session by sending *gpt* followed by your prompt.',
-  startSession: 'Starting ChatGPT session... \nTo close it, send/tap ‘end chat’.',
+  startSession: 'Starting ChatGPT session... \nTo close it, send/tap ‘close’.',
   closeSession:
     'The GPT session is now closed.',
   youCanSendCancel:
