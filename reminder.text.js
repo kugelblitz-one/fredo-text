@@ -1,20 +1,11 @@
 const { newLine, bold } = require('./helper.js')
 
 module.exports = {
-  welcome: `⏰⏰⏰${newLine()}Need a reminder? Tell Fredo ${bold('when')} and ${bold(
-    'what'
-  )} and when the time comes, Fredo will send you a message.${newLine(
+  welcome: `⏰⏰⏰ ${bold('Need a reminder?')}${newLine()}
+  Tell Fredo ${bold('what')} your reminder is about, and ${bold('when')} you need to be reminded.
+  When the time comes, Fredo will send you a reminder message (that you can snooze).${newLine(
     2
-  )}_💡 Tip: start with the word ${bold('remind')} or ${bold(
-    'reminder'
-  )} and specify after that when and what._${newLine(2)}${bold(
-    'Examples:'
-  )}${newLine()}_remind me to pick up Jerry today @4pm_${newLine()}_reminder 07-Sep-2023 08:00 breakfast at Tiffany_ ${newLine(
-    2
-  )}_Send ${bold('HELP')} to return to main menu._`,
-  welcome2: `Note: You can always explore more stuff... ${newLine(2)}💡 Send ${bold(
-    'Howto'
-  )} to explore more skills ${newLine()}💡 Need help? Just send ${bold('Help')}`,
+  )}Check these important tips:`,
   /**
    * @param {number} number
    * @param {'minutes' | 'hours' | 'days'} type
@@ -61,4 +52,6 @@ module.exports = {
   reminderIsPast: 'Reminder is past due.',
   messageInFirstReminder:
     "Congrats on your first reminder 🎉\n\nNow, let's level it up with these features:\n\n1. Click *Edit Timezone* if your reminders have gone loco.\n2. Tap *Calendar* to add reminders to your schedule.\n3. Hit *Cancel reminders* to remove that last reminder blunder.\n\nFeel free to holler if you need help. Stay sassy, stay organized! 💃",
+  tip1: '💡 *Tip #1:*\nYour reminder request must start with the word *remind* or *reminder*.\nBe specific about what and when.\n\n*Examples:*\nremind me to pick up Jerry today @4pm\n\nreminder 07-Sep-2023 08:00 breakfast at Tiffany',
+  tip2: '💡 *Tip #2:*\nWant your reminders in your calendar as well?\nsend "calendar" to set it up',
 }
