@@ -10,6 +10,7 @@ module.exports = {
   whatYourEmail:
     "What's your email address?\n\n(by providing your email address you are giving your consent to our usage of your email per our terms of use and privcay policy)",
   ThatsNotValidEmail: "That's not a valid email address. Would you like to try again?",
-  greatSentInvitesToEmail: `Great.\nWould you like all your reminders sent as invites to ${email}?`,
+  greatSentInvitesToEmail: email =>
+    `Great.\nWould you like all your reminders sent as invites to ${email}?`,
   NoProblem: 'No problem.',
 }
