@@ -13,4 +13,6 @@ module.exports = {
   greatSentInvitesToEmail: email =>
     `Great.\nWould you like all your reminders sent as invites to ${email}?`,
   NoProblem: 'No problem.',
+  havePlatformChangeThat: platform =>
+    `You have ${platform} calendar setup already. Would you like to change that?`,
 }
